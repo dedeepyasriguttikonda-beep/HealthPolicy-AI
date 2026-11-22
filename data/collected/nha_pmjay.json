@@ -1,0 +1,48 @@
+{
+  "page": {
+    "source_id": "nha_pmjay",
+    "source_name": "National Health Authority - PM-JAY / ABDM Updates",
+    "url": "https://nha.gov.in/",
+    "category": "reimbursement",
+    "region": "IN",
+    "authority": "NHA",
+    "title": "National Health Authority - PM-JAY / ABDM Updates",
+    "markdown": "# NHA - PM-JAY / ABDM\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### Revision of Health Benefit Package Rates under AB PM-JAY\n\n*Published: 2026-06-22*\n\nPackage rates for 120 procedures in oncology and cardiology are revised. Empanelled hospitals must update pre-authorisation requests from the effective date.\n\n[Read more](#)\n\n### ABDM Health Facility Registry Mandatory Linking Circular\n\n*Published: 2026-06-08*\n\nAll empanelled hospitals must register in the Health Facility Registry and link records to ABHA IDs within 90 days.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "68e4bf1d0b19660a",
+      "source_id": "nha_pmjay",
+      "source_name": "National Health Authority - PM-JAY / ABDM Updates",
+      "url": "https://nha.gov.in/",
+      "category": "reimbursement",
+      "region": "IN",
+      "authority": "NHA",
+      "title": "Revision of Health Benefit Package Rates under AB PM-JAY",
+      "published": "2026-06-22",
+      "text": "Package rates for 120 procedures in oncology and cardiology are revised. Empanelled hospitals must update pre-authorisation requests from the effective date.",
+      "link": null,
+      "content_hash": "b3a4a38561aa8bbe21d69bb79f7053877ebd90b5",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "824676c04d2884ab",
+      "source_id": "nha_pmjay",
+      "source_name": "National Health Authority - PM-JAY / ABDM Updates",
+      "url": "https://nha.gov.in/",
+      "category": "reimbursement",
+      "region": "IN",
+      "authority": "NHA",
+      "title": "ABDM Health Facility Registry Mandatory Linking Circular",
+      "published": "2026-06-08",
+      "text": "All empanelled hospitals must register in the Health Facility Registry and link records to ABHA IDs within 90 days.",
+      "link": null,
+      "content_hash": "5cf2db097c981c56de1b7f1caf5604a7bd3d4483",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

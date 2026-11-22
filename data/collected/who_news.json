@@ -1,0 +1,48 @@
+{
+  "page": {
+    "source_id": "who_news",
+    "source_name": "WHO News Releases",
+    "url": "https://www.who.int/news-room/releases",
+    "category": "public_health_guidance",
+    "region": "GLOBAL",
+    "authority": "WHO",
+    "title": "WHO News Releases",
+    "markdown": "# WHO News Releases\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### WHO Releases Updated Guidance on Antimicrobial Stewardship in Hospitals\n\n*Published: 2026-06-24*\n\nThe guidance recommends hospital stewardship committees, prescribing audits and restricted-use lists for reserve antibiotics.\n\n[Read more](#)\n\n### WHO Publishes Global Report on Patient Safety\n\n*Published: 2026-06-03*\n\nThe report summarises medication-error and healthcare-associated infection indicators across member states.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "5386127a4d2f3fed",
+      "source_id": "who_news",
+      "source_name": "WHO News Releases",
+      "url": "https://www.who.int/news-room/releases",
+      "category": "public_health_guidance",
+      "region": "GLOBAL",
+      "authority": "WHO",
+      "title": "WHO Releases Updated Guidance on Antimicrobial Stewardship in Hospitals",
+      "published": "2026-06-24",
+      "text": "The guidance recommends hospital stewardship committees, prescribing audits and restricted-use lists for reserve antibiotics.",
+      "link": null,
+      "content_hash": "a0755ab20a17a161a22162013ea8fbd6be998402",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "f703a9fa7c9fe282",
+      "source_id": "who_news",
+      "source_name": "WHO News Releases",
+      "url": "https://www.who.int/news-room/releases",
+      "category": "public_health_guidance",
+      "region": "GLOBAL",
+      "authority": "WHO",
+      "title": "WHO Publishes Global Report on Patient Safety",
+      "published": "2026-06-03",
+      "text": "The report summarises medication-error and healthcare-associated infection indicators across member states.",
+      "link": null,
+      "content_hash": "fe2cbdc6a2131769f075259e4693fdbf9b3e7a92",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

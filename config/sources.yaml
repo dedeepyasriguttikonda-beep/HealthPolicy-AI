@@ -1,0 +1,78 @@
+# HealthPolicy AI - monitored public healthcare policy sources
+# Every source is an official, publicly accessible page (government / regulator).
+# category: regulatory | reimbursement | government_notification | public_health_guidance | drug_device_regulation
+# region: IN (India) | US | GLOBAL
+# Set enabled: false to skip a source. "fixture" is the offline snapshot file name used in demo mode.
+
+sources:
+  - id: cms_newsroom
+    name: CMS Newsroom (Centers for Medicare & Medicaid Services)
+    url: https://www.cms.gov/about-cms/contact/newsroom
+    category: reimbursement
+    region: US
+    authority: CMS
+    enabled: true
+    fixture: cms_newsroom.md
+
+  - id: fda_press
+    name: FDA Press Announcements
+    url: https://www.fda.gov/news-events/fda-newsroom/press-announcements
+    category: drug_device_regulation
+    region: US
+    authority: FDA
+    enabled: true
+    fixture: fda_press.md
+
+  - id: hhs_press
+    name: HHS Press Room
+    url: https://www.hhs.gov/press-room/index.html
+    category: government_notification
+    region: US
+    authority: HHS
+    enabled: true
+    fixture: hhs_press.md
+
+  - id: mohfw_notices
+    name: Ministry of Health & Family Welfare - What's New
+    url: https://mohfw.gov.in/?q=en/whats-new
+    category: government_notification
+    region: IN
+    authority: MoHFW
+    enabled: true
+    fixture: mohfw_notices.md
+
+  - id: nha_pmjay
+    name: National Health Authority - PM-JAY / ABDM Updates
+    url: https://nha.gov.in/
+    category: reimbursement
+    region: IN
+    authority: NHA
+    enabled: true
+    fixture: nha_pmjay.md
+
+  - id: cdsco_notices
+    name: CDSCO - Notices & Circulars
+    url: https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/
+    category: drug_device_regulation
+    region: IN
+    authority: CDSCO
+    enabled: true
+    fixture: cdsco_notices.md
+
+  - id: irdai_circulars
+    name: IRDAI - Health Insurance Circulars
+    url: https://irdai.gov.in/circulars
+    category: reimbursement
+    region: IN
+    authority: IRDAI
+    enabled: true
+    fixture: irdai_circulars.md
+
+  - id: who_news
+    name: WHO News Releases
+    url: https://www.who.int/news-room/releases
+    category: public_health_guidance
+    region: GLOBAL
+    authority: WHO
+    enabled: true
+    fixture: who_news.md

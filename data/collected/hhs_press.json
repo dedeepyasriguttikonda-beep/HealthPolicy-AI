@@ -1,0 +1,48 @@
+{
+  "page": {
+    "source_id": "hhs_press",
+    "source_name": "HHS Press Room",
+    "url": "https://www.hhs.gov/press-room/index.html",
+    "category": "government_notification",
+    "region": "US",
+    "authority": "HHS",
+    "title": "HHS Press Room",
+    "markdown": "# HHS Press Room\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### HHS Proposes Update to HIPAA Security Rule\n\n*Published: 2026-06-30*\n\nThe proposal would require multi-factor authentication, annual compliance audits and encryption of ePHI at rest for covered entities.\n\n[Read more](#)\n\n### HHS Announces Rural Health Workforce Grants\n\n*Published: 2026-06-18*\n\nGrants of up to $1.5 million are available to rural hospitals for nurse recruitment and retention programs. Applications close in 45 days.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "30c87fdbf7712422",
+      "source_id": "hhs_press",
+      "source_name": "HHS Press Room",
+      "url": "https://www.hhs.gov/press-room/index.html",
+      "category": "government_notification",
+      "region": "US",
+      "authority": "HHS",
+      "title": "HHS Proposes Update to HIPAA Security Rule",
+      "published": "2026-06-30",
+      "text": "The proposal would require multi-factor authentication, annual compliance audits and encryption of ePHI at rest for covered entities.",
+      "link": null,
+      "content_hash": "e5832df808428f9a5ff8e38544383c8c7f4ce2fa",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "7aa8b35efd7578a7",
+      "source_id": "hhs_press",
+      "source_name": "HHS Press Room",
+      "url": "https://www.hhs.gov/press-room/index.html",
+      "category": "government_notification",
+      "region": "US",
+      "authority": "HHS",
+      "title": "HHS Announces Rural Health Workforce Grants",
+      "published": "2026-06-18",
+      "text": "Grants of up to $1.5 million are available to rural hospitals for nurse recruitment and retention programs. Applications close in 45 days.",
+      "link": null,
+      "content_hash": "3eecddd4e137e8be546239de9350d064609dce14",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

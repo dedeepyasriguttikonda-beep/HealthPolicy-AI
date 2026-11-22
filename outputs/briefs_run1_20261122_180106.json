@@ -1,0 +1,1335 @@
+{
+  "run_id": 1,
+  "mode": "live",
+  "counts": {
+    "pages": 8,
+    "records": 26,
+    "new": 26,
+    "changed": 0,
+    "removed": 0,
+    "unchanged": 0
+  },
+  "briefs": [
+    {
+      "policy_name": "HHS Announces $47 Million in MAHA ELEVATE Awards to 15 Organizations to Test Chronic Disease Prevention Approaches in Medicare",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom",
+      "source_url": "https://www.cms.gov/newsroom/search?about[]=33506&keys=",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The U.S. Department of Health and Human Services, through CMS, announced $47 million in MAHA ELEVATE awards to 15 organizations. The funding is intended to test chronic disease prevention approaches within Medicare.",
+      "what_changed": [
+        "bullet: Introduction of $47 million in MAHA ELEVATE awards to 15 organizations for testing chronic disease prevention approaches in Medicare"
+      ],
+      "key_points": [
+        "bullet: $47 million allocated for MAHA ELEVATE program",
+        "bullet: 15 organizations selected to receive awards",
+        "bullet: Focus on testing chronic disease prevention approaches in Medicare",
+        "bullet: Initiative announced by HHS through CMS",
+        "bullet: Part of broader innovation models for Medicare"
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Clinics",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Finance & Grants"
+        ],
+        "explanation": "Organizations receiving awards will need to manage new grant funding, align prevention programs with Medicare requirements, and establish reporting and compliance processes, impacting finance, clinical operations, and data management."
+      },
+      "recommended_actions": [
+        "Assess eligibility and prepare for future MAHA ELEVATE grant opportunities",
+        "Develop internal grant management and reporting capabilities",
+        "Align chronic disease prevention initiatives with Medicare program goals",
+        "Engage finance and clinical teams to integrate award-funded activities"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "The U.S. Department of Health and Human Services (HHS), through the Centers for Medicare & Medicaid Services (CMS), today announced $47 million in awards...",
+        "HHS Announces $47 Million in MAHA ELEVATE Awards to 15 Organizations to Test Chronic Disease Prevention Approaches in Medicare"
+      ],
+      "confidence": 0.85,
+      "caveats": "Limited details provided in source; no specifics on award criteria, timelines, reporting requirements, or eligibility.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:26:30+00:00"
+      },
+      "item_id": "cb652b14b33a6334"
+    },
+    {
+      "policy_name": "Listing of Newsroom articles",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom",
+      "source_url": "https://www.cms.gov/about-cms/contact/newsroom",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-11-20",
+      "summary": "CMS has added a new listing of Newsroom articles on its website, announced via a press release dated November 20, 2026.",
+      "what_changed": [
+        "bullet: Introduces a new listing of CMS Newsroom articles"
+      ],
+      "key_points": [
+        "bullet: Press release dated Nov 20, 2026 announces the listing",
+        "bullet: Provides a centralized location for CMS communications",
+        "bullet: Intended for healthcare organizations to stay informed"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Organizations should monitor the new CMS Newsroom listing to stay aware of policy updates and guidance, which may affect compliance and planning but does not create immediate operational changes."
+      },
+      "recommended_actions": [
+        "Assign staff to regularly review the CMS Newsroom for new articles",
+        "Incorporate relevant CMS updates into internal communication channels",
+        "Update compliance monitoring processes as new guidance is released"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Press ReleasesNov 20, 2026"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited details provided; only the press release date is available, no specific content of the listing is described.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:26:31+00:00"
+      },
+      "item_id": "e9c7376b662b70ea"
+    },
+    {
+      "policy_name": "IDR Gateway Now Available",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/newsroom/fact-sheets/idr-gateway-now-available",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-11-13",
+      "summary": "The Independent Dispute Resolution (IDR) Gateway is now available, offering improved functionality, security, and efficiency for the Federal IDR process.",
+      "what_changed": [
+        "bullet: Introduction of the new Independent Dispute Resolution (IDR) Gateway for federal IDR processes"
+      ],
+      "key_points": [
+        "bullet: The IDR Gateway improves functionality of the IDR process",
+        "bullet: The IDR Gateway enhances security",
+        "bullet: The IDR Gateway increases efficiency of the Federal IDR process",
+        "bullet: Announced by HHS, the Department of Labor, and the Department of the Treasury",
+        "bullet: Available as of November 13, 2026"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Billing & Reimbursement"
+        ],
+        "explanation": "Organizations will need to incorporate the new portal into their IDR submission workflows, potentially updating IT systems and staff training to ensure timely and secure dispute resolution."
+      },
+      "recommended_actions": [
+        "Review the IDR Gateway documentation and user guides.",
+        "Update internal IDR submission and tracking processes to use the new portal.",
+        "Train billing and compliance staff on the gateway's functionality and security features.",
+        "Assess IT systems for compatibility and plan any necessary integrations."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "The new Independent Dispute Resolution (IDR) Gateway improves functionality, security, and efficiency of the Federal IDR process.",
+        "On November 13, 2026, the Department of Health and Human Services, the Department of Labor, and the Department of the Treasury (the Departments).",
+        "IDR Gateway Now Available"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited details are provided; no specific technical requirements, timelines for implementation, or procedural guidance are included in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 0.33,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:26:41+00:00"
+      },
+      "item_id": "36cab2bf48bd454b"
+    },
+    {
+      "policy_name": "Medicare Shared Savings Program Accountable Care Organizations Performance Year 2025 Financial and Quality Results",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-11-17",
+      "summary": "CMS released the 2025 financial and quality performance results for Medicare Shared Savings Program Accountable Care Organizations. The data highlight how ACOs are contributing to high‑quality care under the program.",
+      "what_changed": [
+        "bullet: Introduction of the 2025 financial and quality results for Medicare Shared Savings Program ACOs"
+      ],
+      "key_points": [
+        "bullet: The release provides performance data for the 2025 reporting year.",
+        "bullet: Results cover both financial savings and quality metrics.",
+        "bullet: ACOs are described as critical to the \"Make America Healthy Again\" initiative."
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Clinics",
+        "Insurers / Payers",
+        "Accountable Care Organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Billing & Reimbursement",
+          "Quality Reporting"
+        ],
+        "explanation": "Organizations will need to review the published results to assess their own performance against program benchmarks, which can affect future shared‑savings eligibility and quality incentive calculations."
+      },
+      "recommended_actions": [
+        "Review the 2025 performance results to compare against your ACO's metrics.",
+        "Update internal reporting dashboards to reflect the new financial and quality benchmarks.",
+        "Assess any gaps in performance and develop improvement plans for the next reporting year."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Medicare Shared Savings Program Accountable Care Organizations Performance Year 2025 Financial and Quality Results",
+        "Medicare Shared Savings Program (Shared Savings Program) Accountable Care Organizations (ACOs) are critical in helping Make America Healthy Again — by supporting high-quality",
+        "Press ReleasesNov 17, 2026"
+      ],
+      "confidence": 0.9,
+      "caveats": "The source provides only a brief announcement; detailed performance metrics and specific program requirements are not included.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:26:54+00:00"
+      },
+      "item_id": "58812f860bce1adc"
+    },
+    {
+      "policy_name": "Medicare Shared Savings Program Saves More Than $2.5 Billion as Participating ACOs Reach Record 12.6 Million Beneficiaries",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom",
+      "source_url": "https://www.cms.gov/newsroom/press-releases/medicare-shared-savings-program-saves-more-2-5-billion-participating-acos-reach-record-12-6-million",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The Medicare Shared Savings Program (MSSP) reported savings exceeding $2.5 billion and a record 12.6 million beneficiaries participating. The results indicate that coordinated care among doctors, hospitals, and other providers is delivering financial benefits to Medicare and taxpayers.",
+      "what_changed": [
+        "bullet: Introduction of reported savings > $2.5 billion and record 12.6 million beneficiaries for the MSSP"
+      ],
+      "key_points": [
+        "bullet: MSSP saved more than $2.5 billion for Medicare.",
+        "bullet: Participation reached a record 12.6 million beneficiaries.",
+        "bullet: Collaborative care among doctors, hospitals, and other providers is yielding the largest savings.",
+        "bullet: Benefits accrue to Medicare, taxpayers, and participating providers."
+      ],
+      "affected_stakeholders": [
+        "Patients",
+        "Hospitals",
+        "Insurers / Payers",
+        "Physicians & Clinicians"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Finance & Grants"
+        ],
+        "explanation": "The reported savings and expanded beneficiary base may influence financial planning, reimbursement forecasting, and grant eligibility for hospitals and provider groups participating in MSSP. Organizations should assess how these results affect their revenue cycle and strategic alignment with value‑based care initiatives."
+      },
+      "recommended_actions": [
+        "Review MSSP performance data to gauge financial impact on your organization.",
+        "Evaluate participation or continued involvement in MSSP based on projected savings.",
+        "Align budgeting and forecasting processes with the reported savings trends.",
+        "Engage with ACO leadership to understand best practices that drove the savings."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Medicare Shared Savings Program Saves More Than $2.5 Billion as Participating ACOs Reach Record 12.6 Million Beneficiaries",
+        "Helping doctors, hospitals, and other healthcare providers work together is paying off for Medicare and taxpayers",
+        "with the largest savings in the Medicare Shared Savings"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited detail in source; no specific dates, implementation timelines, or actionable program changes are provided.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:27:09+00:00"
+      },
+      "item_id": "8d7e846c64a22407"
+    },
+    {
+      "policy_name": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+      "issuing_authority": "FDA",
+      "source_name": "FDA Press Announcements",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+      "region": "US",
+      "category": "drug_device_regulation",
+      "change_type": "new",
+      "published_or_effective_date": "2026-11-18",
+      "summary": "The FDA has approved the first medication specifically indicated for the neurological symptoms of Type 3 Gaucher disease. This creates a new therapeutic option for patients with this rare, progressive disorder.",
+      "what_changed": [
+        "bullet: introduction of the first FDA‑approved drug targeting neurological manifestations of Type 3 Gaucher disease"
+      ],
+      "key_points": [
+        "First FDA approval for a drug addressing neurological symptoms in Type 3 Gaucher disease",
+        "Provides a new treatment option for a rare, progressive lysosomal storage disorder",
+        "May require updates to hospital and clinic formularies and care pathways",
+        "Potential impact on pharmacy inventory and budgeting",
+        "Patients with Type 3 Gaucher disease gain access to a disease‑specific therapy"
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Clinics",
+        "Pharmacies",
+        "Patients",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Clinical Operations",
+          "Pharmacy & Supply Chain",
+          "Finance & Grants"
+        ],
+        "explanation": "Healthcare organizations will need to add the new drug to formularies, train clinicians on its use, manage inventory and budgeting for the therapy, and work with payers to secure reimbursement."
+      },
+      "recommended_actions": [
+        "Review the FDA approval details and prescribing information for eligibility criteria",
+        "Update pharmacy formularies and order management systems to include the new drug",
+        "Educate clinicians, pharmacists, and care teams on the indication and administration",
+        "Engage with payers to establish coverage and reimbursement pathways"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "November 18, 2026\\ - FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited details are provided in the source; specifics on dosing, pricing, and implementation guidance are not stated.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:27:24+00:00"
+      },
+      "item_id": "3a42c7e2976b8046"
+    },
+    {
+      "policy_name": "October 2026",
+      "issuing_authority": "FDA",
+      "source_name": "FDA Press Announcements",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+      "region": "US",
+      "category": "drug_device_regulation",
+      "change_type": "new",
+      "published_or_effective_date": "2026-10-30",
+      "summary": "The FDA has approved the first plasmid DNA‑based immunotherapy for adults with recurrent respiratory papillomatosis. This marks a new therapeutic option for this patient population.",
+      "what_changed": [
+        "Introduces a new plasmid DNA‑based immunotherapy approved for adult patients with recurrent respiratory papillomatosis"
+      ],
+      "key_points": [
+        "First plasmid DNA‑based immunotherapy approved by the FDA",
+        "Indicated for adults with recurrent respiratory papillomatosis",
+        "Approval announced on October 30, 2026"
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Physicians & Clinicians",
+        "Pharmacy & Supply Chain"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Clinical Operations",
+          "IT, Data & Privacy",
+          "Pharmacy & Supply Chain"
+        ],
+        "explanation": "Clinics will need to integrate the new therapy into treatment protocols, update electronic health record order sets, and manage inventory for a novel biologic product. IT systems must capture administration data, and pharmacy teams must establish supply chain processes for the plasmid DNA product."
+      },
+      "recommended_actions": [
+        "Review and update clinical guidelines to include the new immunotherapy",
+        "Add the therapy to formulary and EHR order sets",
+        "Train physicians, nurses, and pharmacists on administration, monitoring, and safety",
+        "Coordinate with supply chain to procure and store the plasmid DNA product"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "- October 30, 2026\\ - FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited details provided in source; no information on dosing, safety data, or implementation requirements.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:27:36+00:00"
+      },
+      "item_id": "10e845865c8ae96f"
+    },
+    {
+      "policy_name": "Programmes to advance understanding of RTI",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/programmes-to-advance-understanding-of-rti",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The IRDAI has announced programmes intended to advance the understanding of RTI. The initiative is aimed at healthcare organizations but no further details are provided.",
+      "what_changed": [
+        "Introduces programmes to advance understanding of RTI"
+      ],
+      "key_points": [
+        "Programmes are focused on improving RTI awareness",
+        "Target audience includes healthcare organizations",
+        "No specific implementation details are provided"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Organizations may need to allocate resources for RTI education and incorporate related content into training or patient communication, affecting staff time and educational materials."
+      },
+      "recommended_actions": [
+        "Monitor IRDAI communications for detailed guidelines on the programmes",
+        "Assess current RTI knowledge gaps within the organization",
+        "Develop a plan to incorporate RTI awareness into staff training and patient education"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "- Programmes to advance understanding of RTI"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited information; the source provides only a title with no details on scope, requirements, or timelines.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:28:54+00:00"
+      },
+      "item_id": "d8020328feeb9ad3"
+    },
+    {
+      "policy_name": "Information Under Section 4(1)(b) of RTI Act' 2005",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/information-under-section-4-1-b-of-rti-act-2005",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The IRDAI has released a circular titled 'Information Under Section 4(1)(b) of RTI Act 2005'. It signals that certain information must be disclosed under the Right to Information Act, relevant to healthcare organizations.",
+      "what_changed": [
+        "Introduces a new IRDAI circular providing information under Section 4(1)(b) of the RTI Act 2005"
+      ],
+      "key_points": [
+        "Circular titled 'Information Under Section 4(1)(b) of RTI Act 2005'",
+        "Issued by the Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Pertains to information disclosure requirements under the RTI Act",
+        "Relevant to healthcare organizations"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Organizations need to be aware of the disclosed information requirements, which may affect compliance reporting, internal documentation, and stakeholder communication."
+      },
+      "recommended_actions": [
+        "Obtain and review the full circular content from IRDAI",
+        "Assess any compliance implications for existing processes",
+        "Update internal policies or training to reflect the disclosed information requirements",
+        "Monitor for any further guidance or implementation timelines"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "- Information Under Section 4(1)(b) of RTI Act' 2005"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited details provided; only the title of the circular is available in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:29:07+00:00"
+      },
+      "item_id": "1258106c879e37ba"
+    },
+    {
+      "policy_name": "मास्टर परिपत्र / Master Circular",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/document-detail?documentId=9983016",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-11-02",
+      "summary": "IRDAI has issued a new Master Circular for 2026 covering insurers' registration, capital structure, share transfer and amalgamation. The circular sets out regulatory requirements that insurers must follow.",
+      "what_changed": [
+        "Introduces a Master Circular on registration, capital structure, transfer of shares and amalgamation of insurers for 2026."
+      ],
+      "key_points": [
+        "Applies to all insurers operating in India.",
+        "Sets out registration requirements for insurers.",
+        "Defines capital structure and adequacy norms.",
+        "Provides rules for transfer of shares among insurers.",
+        "Outlines procedures for amalgamation of insurers."
+      ],
+      "affected_stakeholders": [
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Regulatory Compliance"
+        ],
+        "explanation": "Insurers will need to review and align their registration, capital and share transfer processes with the new circular, impacting compliance monitoring, reporting and potentially financial planning."
+      },
+      "recommended_actions": [
+        "Obtain the full text of the Master Circular and distribute to compliance teams.",
+        "Conduct a gap analysis of current registration and capital structures against the new requirements.",
+        "Update internal policies and procedures to reflect the circular's provisions.",
+        "Train relevant staff on the new regulatory expectations."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "बीमाकर्ताओं के पंजीकरण, पूँजी विन्यास, शेयरों के अंतरण और समामेलन संबंधी मास्टर परिपत्र, 2026 / Master Circular on Registration, Capital Structure, Transfer of Shares and Amalgamation of Insurers, 2026",
+        "02-11-2026"
+      ],
+      "confidence": 0.85,
+      "caveats": "Details of the circular's content are not provided in the source; the brief is based solely on the title and publication date.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:29:44+00:00"
+      },
+      "item_id": "1c30b00f9450062c"
+    },
+    {
+      "policy_name": "असम के चार ज़िलों को प्रभावित करने वाली प्राकृतिक आपदा के संबंध में परिपत्र / Circular on natural disaster affecting four districts of Assam",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/document-detail?documentId=9706554",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-04-08",
+      "summary": "IRDAI issued a new circular addressing a natural disaster that impacted four districts of Assam. The circular is available as a PDF document dated 04-08-2026.",
+      "what_changed": [
+        "bullet: Introduces a new circular on natural disaster affecting four districts of Assam"
+      ],
+      "key_points": [
+        "bullet: Non‑archived circular issued by IRDAI",
+        "bullet: Title references natural disaster in four Assam districts",
+        "bullet: Document dated 04-08-2026",
+        "bullet: PDF size 829 KB"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Organizations should become aware of the circular and monitor for any subsequent detailed guidance that may affect billing, claims processing, or disaster‑related reimbursements. No specific operational actions are described in the source."
+      },
+      "recommended_actions": [
+        "Monitor IRDAI communications for follow‑up details or implementation guidelines.",
+        "Ensure disaster‑response plans incorporate potential regulatory updates.",
+        "Inform compliance and claims teams about the existence of the circular."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "असम के चार ज़िलों को प्रभावित करने वाली प्राकृतिक आपदा के संबंध में परिपत्र / Circular on natural disaster affecting four districts of Assam",
+        "04-08-2026",
+        "829 KB"
+      ],
+      "confidence": 0.7,
+      "caveats": "Details of the circular's content, specific reimbursement provisions, and any compliance requirements are not provided in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011",
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:29:57+00:00"
+      },
+      "item_id": "dd547be51a9ea83c"
+    },
+    {
+      "policy_name": "Clarifications on provisions with respect to investment in Alternative Investment Funds(AIFs)",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/document-detail?documentId=8760558",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-12-02",
+      "summary": "IRDAI issued a circular titled “Clarifications on provisions with respect to investment in Alternative Investment Funds (AIFs)”. The document provides guidance on AIF investment provisions for the health insurance sector.",
+      "what_changed": [
+        "Introduces clarifications on provisions regarding investment in Alternative Investment Funds (AIFs)."
+      ],
+      "key_points": [
+        "Title: Clarifications on provisions with respect to investment in Alternative Investment Funds(AIFs).",
+        "Published on 12-02-2026.",
+        "Document is a 393 KB PDF.",
+        "Issued by IRDAI for the health insurance sector."
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "The circular raises awareness of IRDAI guidance on AIF investments, which may influence investment strategy, compliance monitoring, and financial planning for insurers and related healthcare entities."
+      },
+      "recommended_actions": [
+        "Obtain and review the full PDF to understand the specific clarifications.",
+        "Assess current AIF investment practices against the new guidance.",
+        "Update internal compliance checklists and investment policies as needed.",
+        "Communicate the guidance to finance and investment teams."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Clarifications on provisions with respect to investment in Alternative Investment Funds(AIFs)",
+        "12-02-2026",
+        "393 KB"
+      ],
+      "confidence": 0.7,
+      "caveats": "Only title, date, and file metadata are available; detailed policy provisions are not provided in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "201",
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:30:10+00:00"
+      },
+      "item_id": "0df24506b235224a"
+    },
+    {
+      "policy_name": "Implementation of 1600 Series TRAI directions",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/document-detail?documentId=8446575",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "2026-07-01",
+      "summary": "A new circular announces the implementation of the mandatory adoption of the 1600 series directions issued by the Telecom Regulatory Authority of India (TRAI). No further details about the content or requirements are provided in the source.",
+      "what_changed": [
+        "bullet: introduction of a mandatory adoption requirement for the 1600 series TRAI directions"
+      ],
+      "key_points": [
+        "bullet: Title references mandatory adoption of TRAI 1600 series directions",
+        "bullet: Issued by IRDAI and classified as a health insurance circular",
+        "bullet: Document is non‑archived and dated 07-01-2026",
+        "bullet: File size is 1.9 MB"
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Insurers / Payers",
+        "Clinics"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Healthcare organizations need to become aware of the new TRAI directive and assess any compliance or reporting implications. Lack of detail means they should monitor for further guidance before making operational changes."
+      },
+      "recommended_actions": [
+        "Review the full TRAI 1600 series document when it becomes available.",
+        "Assign a compliance officer to track any related regulatory updates.",
+        "Communicate the existence of this circular to relevant clinical and billing teams."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "1600-शृंखला के अनिवार्य अंगीकरण संबंधी ट्राई (भारतीय दूरसंचाल... के निदेश का कार्यान्वयन / Implementation of 1600 Series TRAI directions",
+        "07-01-2026",
+        "Non-Archived",
+        "1.9 MB"
+      ],
+      "confidence": 0.7,
+      "caveats": "Not stated in source: the specific requirements, compliance deadlines, or operational impacts of the TRAI directions. The brief is based solely on the title and metadata.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 0.75,
+        "unsupported_numbers": [
+          "2011",
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:30:23+00:00"
+      },
+      "item_id": "b34c924c99a9fa6d"
+    },
+    {
+      "policy_name": "Prevention and treatment of respiratory syncytial virus disease among children: study design optimization...",
+      "issuing_authority": "WHO",
+      "source_name": "WHO News Releases",
+      "source_url": "https://www.who.int/publications/i/item/B09982",
+      "region": "GLOBAL",
+      "category": "public_health_guidance",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The WHO has issued new guidance on optimizing study designs for the prevention and treatment of respiratory syncytial virus (RSV) disease in children.",
+      "what_changed": [
+        "Introduces new guidance on study design optimization for RSV prevention and treatment in children"
+      ],
+      "key_points": [
+        "Focuses on prevention of RSV disease among children",
+        "Focuses on treatment of RSV disease among children",
+        "Emphasizes optimization of study design for RSV research"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Clinical Operations"
+        ],
+        "explanation": "Clinical research teams will need to align RSV study protocols with the WHO's design recommendations, affecting protocol development, data collection, and trial management."
+      },
+      "recommended_actions": [
+        "Obtain the full WHO guidance document when it becomes available",
+        "Review current RSV study protocols for alignment with the new design recommendations",
+        "Update protocol templates and training for clinical research staff",
+        "Monitor for any implementation timelines or additional details from WHO"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Prevention and treatment of respiratory syncytial virus disease among children: study design optimization..."
+      ],
+      "confidence": 0.8,
+      "caveats": "Limited detail provided; only the title is available in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:30:36+00:00"
+      },
+      "item_id": "826bae4a5b01c7a1"
+    },
+    {
+      "policy_name": "Regional perspectives on air quality and health: WHO African Region: technical brief",
+      "issuing_authority": "WHO",
+      "source_name": "WHO News Releases",
+      "source_url": "https://www.who.int/publications/i/item/B09813",
+      "region": "GLOBAL",
+      "category": "public_health_guidance",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The World Health Organization has issued a technical brief that presents regional perspectives on air quality and health for the African Region. It aims to inform healthcare stakeholders about the link between air pollution and health outcomes.",
+      "what_changed": [
+        "Introduces a new WHO technical brief on air quality and health in the African Region"
+      ],
+      "key_points": [
+        "Regional perspectives on air quality and health",
+        "Focus on the WHO African Region",
+        "Presented as a technical brief"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "The brief provides updated information on air quality impacts, helping healthcare organizations raise awareness, adjust community health initiatives, and align with regional public‑health priorities."
+      },
+      "recommended_actions": [
+        "Obtain and review the WHO technical brief",
+        "Disseminate key findings to clinical and public‑health staff",
+        "Consider incorporating air‑quality considerations into health promotion and disease‑prevention programs"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Regional perspectives on air quality and health: WHO African Region: technical brief"
+      ],
+      "confidence": 0.9,
+      "caveats": "Limited detail is available in the source; the brief’s content and specific recommendations are not described.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:30:54+00:00"
+      },
+      "item_id": "eb24f16c4a1f2518"
+    },
+    {
+      "policy_name": "Regional perspectives on air quality and health: WHO Region of the Americas: technical brief",
+      "issuing_authority": "WHO",
+      "source_name": "WHO News Releases",
+      "source_url": "https://www.who.int/publications/i/item/B09648",
+      "region": "GLOBAL",
+      "category": "public_health_guidance",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "A new WHO technical brief presents regional perspectives on air quality and its health impacts for the Americas. The document is intended to inform healthcare organizations about the relationship between air quality and health outcomes.",
+      "what_changed": [
+        "Introduces a technical brief on regional perspectives on air quality and health for the WHO Region of the Americas."
+      ],
+      "key_points": [
+        "Focuses on air quality and health in the WHO Region of the Americas.",
+        "Provides a technical brief format for guidance.",
+        "Targets healthcare organizations for awareness and action."
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Clinics",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Healthcare organizations may need to incorporate air‑quality considerations into community health programs, clinical guidance, and patient education. Awareness can affect preventive care planning and resource allocation."
+      },
+      "recommended_actions": [
+        "Obtain and review the WHO technical brief.",
+        "Assess local air‑quality data against the brief's insights.",
+        "Integrate air‑quality health considerations into clinical and public‑health initiatives.",
+        "Monitor WHO updates for further guidance."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Regional perspectives on air quality and health: WHO Region of the Americas: technical brief"
+      ],
+      "confidence": 0.8,
+      "caveats": "Limited information provided; only the title is available, so details of content are not specified.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:31:06+00:00"
+      },
+      "item_id": "3f4e262e725b53e7"
+    },
+    {
+      "policy_name": "CMS Proposes Reforms to Strengthen Competition, Elevate Care Quality, and Expand Beneficiary Choice in Medicare Advantage",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/newsroom/press-releases/cms-proposes-reforms-strengthen-competition-elevate-care-quality-expand-beneficiary-choice-medicare",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "CMS has issued a proposed rule intended to revitalize competition in Medicare Advantage and Part D, improve care quality, and broaden choice for seniors. The proposal is currently in draft form and seeks to reshape the Medicare Advantage market.",
+      "what_changed": [
+        "bullet: introduction of a proposed rule aimed at strengthening competition, elevating care quality, and expanding beneficiary choice in Medicare Advantage and Part D"
+      ],
+      "key_points": [
+        "bullet: CMS issued a proposed rule today.",
+        "bullet: Goal is to revitalize competition in Medicare Advantage (MA) and Part D.",
+        "bullet: Intended to elevate care quality for seniors.",
+        "bullet: Aims to expand beneficiary choice.",
+        "bullet: The proposal is currently a draft and not yet final."
+      ],
+      "affected_stakeholders": [
+        "Insurers / Payers",
+        "Patients"
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "Regulatory Compliance"
+        ],
+        "explanation": "As a proposed rule, organizations should monitor the CMS process for any future compliance obligations. Early awareness can help insurers adjust plan designs and marketing strategies once the rule is finalized."
+      },
+      "recommended_actions": [
+        "Monitor CMS communications for updates on the proposed rule.",
+        "Assess potential impacts on current Medicare Advantage plan offerings.",
+        "Engage policy and compliance teams to prepare for possible regulatory changes.",
+        "Develop a contingency plan for adjustments to billing or marketing if the rule is adopted."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "The Centers for Medicare & Medicaid Services (CMS) issued a proposed rule today that is intended to revitalize competition in Medicare Advantage (MA) and Part D and give seniors",
+        "CMS Proposes Reforms to Strengthen Competition, Elevate Care Quality, and Expand Beneficiary Choice in Medicare Advantage",
+        "Fact SheetsNov 20, 2026"
+      ],
+      "confidence": 0.85,
+      "caveats": "The rule is in proposed (draft) form; details of the reforms are not provided in the source, limiting actionable insight.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:26:35+00:00"
+      },
+      "item_id": "e8a3a0654c39ff38"
+    },
+    {
+      "policy_name": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program (CMS-4214-P2)",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/newsroom/fact-sheets/contract-year-2028-policy-technical-changes-medicare-advantage-program-medicare-prescription-drug",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "CMS issued a proposed rule on November 20 to revise policies and technical requirements for the Medicare Advantage, Medicare Prescription Drug Benefit, and Medicare Cost Plan programs for contract year 2028. The specific changes have not been detailed in the source.",
+      "what_changed": [
+        "Not stated in source"
+      ],
+      "key_points": [
+        "CMS issued a proposed rule on November 20, 2026.",
+        "The rule targets Medicare Advantage, prescription drug, and cost plan programs for contract year 2028.",
+        "Details of the policy and technical changes are not provided in the source."
+      ],
+      "affected_stakeholders": [
+        "Insurers / Payers",
+        "Physicians & Clinicians"
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "Clinical Operations",
+          "Pharmacy & Supply Chain",
+          "Regulatory Compliance"
+        ],
+        "explanation": "Because only a proposal has been announced and no specific requirements are disclosed, immediate operational impact is minimal. Organizations should monitor for forthcoming details to assess future billing, compliance, and supply chain implications."
+      },
+      "recommended_actions": [
+        "Monitor CMS communications for the final rule and detailed requirements.",
+        "Begin internal stakeholder briefings to prepare for potential changes.",
+        "Develop a compliance review process to be activated once specifics are released."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "On November 20, the Centers for Medicare & Medicaid Services (CMS) issued a proposed rule that is intended to revise",
+        "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program (CMS-4214-P2)",
+        "Press ReleasesNov 20, 2026"
+      ],
+      "confidence": 0.7,
+      "caveats": "The source provides only a high‑level announcement of a proposed rule; details of the changes, effective dates, and compliance requirements are not included.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:26:38+00:00"
+      },
+      "item_id": "60e1aae6cd920a77"
+    },
+    {
+      "policy_name": "Latest press releases",
+      "issuing_authority": "HHS",
+      "source_name": "HHS Press Room",
+      "source_url": "https://www.hhs.gov/press-room/cms-proposes-medicare-advantage-reforms-competition-quality-beneficiary-choice.html",
+      "region": "US",
+      "category": "government_notification",
+      "change_type": "new",
+      "published_or_effective_date": "2026-09-18",
+      "summary": "HHS issued a series of press releases in November 2026 announcing CMS reforms to Medicare Advantage, multiple grant awards for chronic disease prevention, nutrition, and caregiver AI initiatives, and other policy updates. The releases provide information on new funding opportunities and regulatory proposals relevant to insurers, patients, and health organizations.",
+      "what_changed": [
+        "bullet: Introduction of multiple new HHS press releases covering CMS reforms, grant awards, and other initiatives dated November 20-18, 2026"
+      ],
+      "key_points": [
+        "CMS proposes reforms to strengthen competition, elevate care quality, and expand beneficiary choice in Medicare Advantage.",
+        "HHS awards $2 million for chronic disease prevention in American Indian and Alaska Native communities.",
+        "HHS announces $47 million in MAHA ELEVATE awards to test chronic disease prevention approaches in Medicare.",
+        "HHS provides $2.25 million for Phase 1 winners of the Caregiver AI Prize Challenge.",
+        "CMS CRUSH proposed rule aims to generate nearly $90 billion in taxpayer savings by targeting fraud."
+      ],
+      "affected_stakeholders": [
+        "Insurers / Payers",
+        "Patients"
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "Finance & Grants",
+          "Regulatory Compliance",
+          "Billing & Reimbursement"
+        ],
+        "explanation": "The announcements mainly inform stakeholders of new funding opportunities and policy proposals; they do not impose immediate operational changes but may affect future grant applications, compliance monitoring, and reimbursement strategies."
+      },
+      "recommended_actions": [
+        "Monitor the HHS press releases for updates on grant eligibility and application deadlines.",
+        "Assess whether your organization qualifies for the announced funding programs and begin preliminary planning.",
+        "Review the CMS Medicare Advantage reform proposal to anticipate any future compliance or reimbursement impacts.",
+        "Communicate relevant announcements to finance, compliance, and clinical leadership teams."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "- CMS Proposes Reforms to Strengthen Competition, Elevate Care Quality, and Expand Beneficiary Choice in Medicare Advantage - November 20, 2026Press Release",
+        "- HHS Awards $2 Million to Advance Chronic Disease Prevention in American Indian and Alaska Native Communities - November 20, 2026Press Release",
+        "- HHS Announces $47 Million in MAHA ELEVATE Awards to 15 Organizations to Test Chronic Disease Prevention Approaches in Medicare - November 20, 2026Press Release",
+        "- HHS Announces $2.25 Million for Phase 1 Winners of the Caregiver AI Prize Challenge: Smarter Tools, Stronger Care - November 18, 2026Press Release",
+        "- CMS CRUSH Proposed Rule Aims to Reap Nearly $90 Billion for Taxpayers in Savings by Targeting Fraud Across Medicare, Medicaid/CHIP, and the Marketplace - November 16, 2026Press Release"
+      ],
+      "confidence": 0.95,
+      "caveats": "Not stated in source: specific implementation dates, detailed eligibility criteria for grants, and any mandatory compliance actions.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:27:56+00:00"
+      },
+      "item_id": "3a47bf47325a4a4a"
+    },
+    {
+      "policy_name": "Rate this translation",
+      "issuing_authority": "MoHFW",
+      "source_name": "Ministry of Health & Family Welfare - What's New",
+      "source_url": "https://mohfw.gov.in/?q=en/whats-new",
+      "region": "IN",
+      "category": "government_notification",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The source contains a simple prompt asking users if they would like to give feedback and provides a Submit option. No further policy details are provided.",
+      "what_changed": [
+        "Introduces a feedback prompt asking \"Do you like to give feedback\" with a Submit button."
+      ],
+      "key_points": [
+        "Do you like to give feedback",
+        "Submit"
+      ],
+      "affected_stakeholders": [
+        "Not stated in source"
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "The content is limited to a feedback prompt and does not affect billing, clinical practice, IT systems, or supply chain. Operational impact is minimal."
+      },
+      "recommended_actions": [
+        "No immediate operational changes required.",
+        "Monitor for any subsequent detailed policy updates."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Do you like to give feedback Submit"
+      ],
+      "confidence": 0.8,
+      "caveats": "The source provides only a feedback prompt; no substantive policy information is available.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:28:10+00:00"
+      },
+      "item_id": "722195b9dcd6e4ac"
+    },
+    {
+      "policy_name": "403 Forbidden",
+      "issuing_authority": "NHA",
+      "source_name": "National Health Authority - PM-JAY / ABDM Updates",
+      "source_url": "https://nha.gov.in/",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "Not stated in source.",
+      "what_changed": [
+        "Not stated in source."
+      ],
+      "key_points": [
+        "Not stated in source."
+      ],
+      "affected_stakeholders": [
+        "Not stated in source."
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "General Awareness"
+        ],
+        "explanation": "Not stated in source; no operational details provided."
+      },
+      "recommended_actions": [
+        "Monitor official NHA communications for any updates.",
+        "Verify the existence of the policy on the NHA website.",
+        "Consult internal compliance team when more information becomes available."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "403 Forbidden"
+      ],
+      "confidence": 0.2,
+      "caveats": "The source provides only a '403 Forbidden' message with no substantive policy details; information is incomplete.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:28:19+00:00"
+      },
+      "item_id": "4707ee9efea3b3fc"
+    },
+    {
+      "policy_name": "Public Notices",
+      "issuing_authority": "CDSCO",
+      "source_name": "CDSCO - Notices & Circulars",
+      "source_url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+      "region": "IN",
+      "category": "drug_device_regulation",
+      "change_type": "new",
+      "published_or_effective_date": "2024-07-05",
+      "summary": "CDSCO has released a new set of public notices covering import permissions, onboarding of officials, false claim alerts, compliance requirements, digital monitoring, WHO alerts, export NOC clarification, draft guidance for IVD devices, and cosmetic registration surrender. The notices are listed with release dates ranging from October to November 2026.",
+      "what_changed": [
+        "bullet: Introduction of a new compilation of public notices by CDSCO covering multiple regulatory topics."
+      ],
+      "key_points": [
+        "bullet: Cancellation of import permission and registration certificates for Sanofi Healthcare India (2026-Nov-11).",
+        "bullet: Reminder for onboarding State/UT officials and drug testing labs on the SUGAM Labs Portal (2026-Nov-09).",
+        "bullet: Alert on misleading claims for FatX solution by M/s Tekno Midas Aesthetics (2026-Oct-28).",
+        "bullet: Launch of a digital monitoring system on the ONDLS portal for high‑risk solvent supply chain (2026-Oct-27).",
+        "bullet: Draft guidance for manufacturers of in‑vitro diagnostic medical devices released for comment (2026-Oct-09)."
+      ],
+      "affected_stakeholders": [
+        "Manufacturers & Importers",
+        "Laboratories",
+        "Insurers / Payers",
+        "Hospitals"
+      ],
+      "operational_relevance": {
+        "level": "low",
+        "areas": [
+          "Regulatory Compliance",
+          "Pharmacy & Supply Chain",
+          "IT, Data & Privacy"
+        ],
+        "explanation": "The notices provide updates on compliance expectations and data‑monitoring tools but do not impose immediate deadlines. Organizations should stay informed to adjust compliance checks and IT systems as needed."
+      },
+      "recommended_actions": [
+        "Monitor the CDSCO public notice portal regularly for updates.",
+        "Update internal regulatory compliance checklists to reflect new notices.",
+        "Inform relevant departments (procurement, labs, IT) of any applicable changes.",
+        "Prepare to incorporate the digital monitoring system on ONDLS if handling high‑risk solvents."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Cancellation of Import permission - 374/10, Registration certificate- SVH-I, SVH-I and Import licence- SVH-1-126 granted for purified TT & Bordetella of M/s Sanofi Healthcare India Private | 2026-Nov-11",
+        "Reminder for onboarding of State/UT officials and Drug Testing Laboratories on SUGAM Labs Portal | 2026-Nov-09",
+        "Misleading or false claims of the product FatX solution registered under COS-2 vide RC no. RC/COS-003300 by the firm M/s Tekno Midas Aesthetics | 2026-Oct-28",
+        "Digital Monitoring System on the ONDLS portal for monitoring the supply chain of high-risk solvents. | 2026-Oct-27",
+        "Draft Guidance document for Manufacturers of In-vitro diagnostic Medical device for stakeholders comment | 2026-Oct-09"
+      ],
+      "confidence": 0.9,
+      "caveats": "Not stated in source: specific compliance deadlines or enforcement dates. Notices are listed with future release dates and may be subject to change.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:28:35+00:00"
+      },
+      "item_id": "ccb219140448bf9e"
+    },
+    {
+      "policy_name": "Consolidated & Gazette Notified Regulations",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/consolidated-gazette-notified-regulations",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "Not stated in source",
+      "what_changed": [
+        "Not stated in source"
+      ],
+      "key_points": [
+        "Not stated in source"
+      ],
+      "affected_stakeholders": [
+        "Not stated in source"
+      ],
+      "operational_relevance": {
+        "level": "Not stated in source",
+        "areas": [
+          "Not stated in source"
+        ],
+        "explanation": "Not stated in source"
+      },
+      "recommended_actions": [
+        "Not stated in source"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "- Consolidated & Gazette Notified Regulations"
+      ],
+      "confidence": 0.5,
+      "caveats": "The source provides only a title with no substantive details; therefore most fields are not stated.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:28:47+00:00"
+      },
+      "item_id": "8b304323d967aa07"
+    },
+    {
+      "policy_name": "Information Under Section 4(1)(d) of RTI Act' 2005",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/information-under-section-4-1-d-of-rti-act-2005",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The source provides information under Section 4(1)(d) of the RTI Act 2005.",
+      "what_changed": [
+        "Not stated in source"
+      ],
+      "key_points": [
+        "Not stated in source"
+      ],
+      "affected_stakeholders": [
+        "Not stated in source"
+      ],
+      "operational_relevance": {
+        "level": "Not stated in source",
+        "areas": [
+          "Not stated in source"
+        ],
+        "explanation": "Not stated in source"
+      },
+      "recommended_actions": [
+        "Not stated in source"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Information Under Section 4(1)(d) of RTI Act' 2005"
+      ],
+      "confidence": 1.0,
+      "caveats": "Limited information; only the title is provided in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:29:16+00:00"
+      },
+      "item_id": "6e5fba14c1931c3d"
+    },
+    {
+      "policy_name": "Antimoney laundering and CFT",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/antimoney-laundering",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The source mentions anti‑money laundering and CFT.",
+      "what_changed": [
+        "Not stated in source"
+      ],
+      "key_points": [
+        "Not stated in source"
+      ],
+      "affected_stakeholders": [
+        "Healthcare organizations"
+      ],
+      "operational_relevance": {
+        "level": "Not stated in source",
+        "areas": [],
+        "explanation": "Not stated in source"
+      },
+      "recommended_actions": [
+        "Not stated in source"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Antimoney laundering and CFT"
+      ],
+      "confidence": 0.7,
+      "caveats": "Limited information; only title provided.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:29:29+00:00"
+      },
+      "item_id": "a74bf34de34d4f32"
+    },
+    {
+      "policy_name": "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief",
+      "issuing_authority": "WHO",
+      "source_name": "WHO News Releases",
+      "source_url": "https://www.who.int/publications/i/item/B09565",
+      "region": "GLOBAL",
+      "category": "public_health_guidance",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "Not stated in source",
+      "what_changed": [
+        "Introduces a new technical brief titled \"Regional perspectives on air quality and health: WHO Eastern Mediterranean Region\"."
+      ],
+      "key_points": [
+        "Not stated in source"
+      ],
+      "affected_stakeholders": [
+        "Not stated in source"
+      ],
+      "operational_relevance": {
+        "level": "Not stated in source",
+        "areas": [
+          "Not stated in source"
+        ],
+        "explanation": "Not stated in source"
+      },
+      "recommended_actions": [
+        "Not stated in source"
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Regional perspectives on air quality and health: WHO Eastern Mediterranean Region: technical brief"
+      ],
+      "confidence": 0.5,
+      "caveats": "Only the title is provided; no substantive content or implementation details are available in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:30:45+00:00"
+      },
+      "item_id": "2a44e7d01ac8bdb6"
+    }
+  ]
+}

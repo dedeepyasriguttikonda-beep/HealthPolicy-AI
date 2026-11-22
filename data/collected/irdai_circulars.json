@@ -1,0 +1,48 @@
+{
+  "page": {
+    "source_id": "irdai_circulars",
+    "source_name": "IRDAI - Health Insurance Circulars",
+    "url": "https://irdai.gov.in/circulars",
+    "category": "reimbursement",
+    "region": "IN",
+    "authority": "IRDAI",
+    "title": "IRDAI - Health Insurance Circulars",
+    "markdown": "# IRDAI - Circulars\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### Master Circular on Health Insurance Products\n\n*Published: 2026-06-12*\n\nInsurers must settle cashless authorisation requests within one hour and final discharge authorisation within three hours.\n\n[Read more](#)\n\n### Circular on Standard Claim Form for Hospitals\n\n*Published: 2026-05-30*\n\nA standardised claim form is prescribed for all network hospitals to reduce claim rejection due to missing data.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "e6877f4770f2f776",
+      "source_id": "irdai_circulars",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "url": "https://irdai.gov.in/circulars",
+      "category": "reimbursement",
+      "region": "IN",
+      "authority": "IRDAI",
+      "title": "Master Circular on Health Insurance Products",
+      "published": "2026-06-12",
+      "text": "Insurers must settle cashless authorisation requests within one hour and final discharge authorisation within three hours.",
+      "link": null,
+      "content_hash": "dba3a9f908254a8411f63999be6d326cbd877725",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "9a01898efe270b8d",
+      "source_id": "irdai_circulars",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "url": "https://irdai.gov.in/circulars",
+      "category": "reimbursement",
+      "region": "IN",
+      "authority": "IRDAI",
+      "title": "Circular on Standard Claim Form for Hospitals",
+      "published": "2026-05-30",
+      "text": "A standardised claim form is prescribed for all network hospitals to reduce claim rejection due to missing data.",
+      "link": null,
+      "content_hash": "fdf9a30482c94d5670db11b3587464f59eff471e",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

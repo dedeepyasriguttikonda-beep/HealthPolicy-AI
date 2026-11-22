@@ -1,0 +1,48 @@
+{
+  "page": {
+    "source_id": "cdsco_notices",
+    "source_name": "CDSCO - Notices & Circulars",
+    "url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+    "category": "drug_device_regulation",
+    "region": "IN",
+    "authority": "CDSCO",
+    "title": "CDSCO - Notices & Circulars",
+    "markdown": "# CDSCO - Notices\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### Notice on Licensing of Class B Medical Devices\n\n*Published: 2026-06-27*\n\nManufacturers and importers of Class B medical devices must hold a licence under the Medical Devices Rules. Applications via the online portal.\n\n[Read more](#)\n\n### Alert on Not-of-Standard-Quality Drug Samples\n\n*Published: 2026-06-14*\n\nThe monthly list of not-of-standard-quality samples is published. Hospitals should quarantine listed batches.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "90bfd7347bc14c2e",
+      "source_id": "cdsco_notices",
+      "source_name": "CDSCO - Notices & Circulars",
+      "url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+      "category": "drug_device_regulation",
+      "region": "IN",
+      "authority": "CDSCO",
+      "title": "Notice on Licensing of Class B Medical Devices",
+      "published": "2026-06-27",
+      "text": "Manufacturers and importers of Class B medical devices must hold a licence under the Medical Devices Rules. Applications via the online portal.",
+      "link": null,
+      "content_hash": "50b8ad44e13ba511f420b488f63f8108df9fcaef",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "f8019b5ef81b62b8",
+      "source_id": "cdsco_notices",
+      "source_name": "CDSCO - Notices & Circulars",
+      "url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+      "category": "drug_device_regulation",
+      "region": "IN",
+      "authority": "CDSCO",
+      "title": "Alert on Not-of-Standard-Quality Drug Samples",
+      "published": "2026-06-14",
+      "text": "The monthly list of not-of-standard-quality samples is published. Hospitals should quarantine listed batches.",
+      "link": null,
+      "content_hash": "cbe4d3ad22d77128efd4959cdbcd7afb7d46c60e",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "run_id": 1,
+  "mode": "offline:cycle1",
+  "counts": {
+    "pages": 8,
+    "records": 19,
+    "new": 19,
+    "changed": 0,
+    "removed": 0,
+    "unchanged": 0
+  },
+  "briefs": []
+}

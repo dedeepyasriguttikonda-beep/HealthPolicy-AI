@@ -1,0 +1,106 @@
+{
+  "new": [
+    [
+      "fda_press",
+      "FDA Finalizes Rule on Laboratory Developed Tests Oversight Phase-In"
+    ],
+    [
+      "hhs_press",
+      "HHS Finalizes Information Blocking Disincentives for Providers"
+    ],
+    [
+      "mohfw_notices",
+      "Notification on Mandatory Reporting of Notifiable Diseases by Private Hospitals"
+    ],
+    [
+      "cdsco_notices",
+      "Draft Notification on Revised Schedule M Compliance Timeline"
+    ],
+    [
+      "who_news",
+      "WHO Issues Interim Recommendations on Avian Influenza Preparedness"
+    ]
+  ],
+  "changed": [
+    [
+      "cms_newsroom",
+      "Proposed Physician Fee Schedule Update for Next Calendar Year"
+    ],
+    [
+      "nha_pmjay",
+      "Revision of Health Benefit Package Rates under AB PM-JAY"
+    ],
+    [
+      "irdai_circulars",
+      "Master Circular on Health Insurance Products"
+    ]
+  ],
+  "removed": [
+    [
+      "fda_press",
+      "FDA Updates Drug Shortage List"
+    ]
+  ],
+  "unchanged": [
+    [
+      "cms_newsroom",
+      "Hospital Price Transparency Enforcement Reminder"
+    ],
+    [
+      "cms_newsroom",
+      "Medicare Advantage Star Ratings Methodology Notice"
+    ],
+    [
+      "fda_press",
+      "FDA Issues Draft Guidance on AI-Enabled Medical Device Software"
+    ],
+    [
+      "fda_press",
+      "FDA Announces Recall Classification for Infusion Pump Model"
+    ],
+    [
+      "hhs_press",
+      "HHS Proposes Update to HIPAA Security Rule"
+    ],
+    [
+      "hhs_press",
+      "HHS Announces Rural Health Workforce Grants"
+    ],
+    [
+      "mohfw_notices",
+      "Advisory on Heat-Related Illness Preparedness for Health Facilities"
+    ],
+    [
+      "mohfw_notices",
+      "Draft Guidelines for Telemedicine Practice - Public Consultation"
+    ],
+    [
+      "mohfw_notices",
+      "Revised Indian Public Health Standards for Sub-District Hospitals"
+    ],
+    [
+      "nha_pmjay",
+      "ABDM Health Facility Registry Mandatory Linking Circular"
+    ],
+    [
+      "cdsco_notices",
+      "Notice on Licensing of Class B Medical Devices"
+    ],
+    [
+      "cdsco_notices",
+      "Alert on Not-of-Standard-Quality Drug Samples"
+    ],
+    [
+      "irdai_circulars",
+      "Circular on Standard Claim Form for Hospitals"
+    ],
+    [
+      "who_news",
+      "WHO Releases Updated Guidance on Antimicrobial Stewardship in Hospitals"
+    ],
+    [
+      "who_news",
+      "WHO Publishes Global Report on Patient Safety"
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+firecrawl-py>=4.0
+google-genai>=1.0
+openai>=1.40
+streamlit>=1.40
+pandas>=2.0
+pyyaml>=6.0
+python-dateutil>=2.8
+python-dotenv>=1.0
+pytest>=8.0
+# optional: mirror history into the memento-memory knowledge graph (MEMENTO_BACKEND=memento-memory)
+# memento-memory[gemini]

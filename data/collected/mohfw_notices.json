@@ -1,0 +1,63 @@
+{
+  "page": {
+    "source_id": "mohfw_notices",
+    "source_name": "Ministry of Health & Family Welfare - What's New",
+    "url": "https://mohfw.gov.in/?q=en/whats-new",
+    "category": "government_notification",
+    "region": "IN",
+    "authority": "MoHFW",
+    "title": "Ministry of Health & Family Welfare - What's New",
+    "markdown": "# MoHFW - What's New\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### Advisory on Heat-Related Illness Preparedness for Health Facilities\n\n*Published: 2026-05-20*\n\nStates are advised to ensure cooling arrangements, ORS stock and dedicated heat-stroke beds in district hospitals.\n\n[Read more](#)\n\n### Draft Guidelines for Telemedicine Practice - Public Consultation\n\n*Published: 2026-06-25*\n\nThe draft revises consent, prescription and record-keeping norms for teleconsultations. Comments invited within 30 days.\n\n[Read more](#)\n\n### Revised Indian Public Health Standards for Sub-District Hospitals\n\n*Published: 2026-06-05*\n\nThe revised IPHS specify minimum staffing, diagnostic services and infection control requirements for sub-district hospitals.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "ac738b00fc522845",
+      "source_id": "mohfw_notices",
+      "source_name": "Ministry of Health & Family Welfare - What's New",
+      "url": "https://mohfw.gov.in/?q=en/whats-new",
+      "category": "government_notification",
+      "region": "IN",
+      "authority": "MoHFW",
+      "title": "Advisory on Heat-Related Illness Preparedness for Health Facilities",
+      "published": "2026-05-20",
+      "text": "States are advised to ensure cooling arrangements, ORS stock and dedicated heat-stroke beds in district hospitals.",
+      "link": null,
+      "content_hash": "e32bd8706ece92f9441890dd3451010abd251ff9",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "b2a9fa4d2b720966",
+      "source_id": "mohfw_notices",
+      "source_name": "Ministry of Health & Family Welfare - What's New",
+      "url": "https://mohfw.gov.in/?q=en/whats-new",
+      "category": "government_notification",
+      "region": "IN",
+      "authority": "MoHFW",
+      "title": "Draft Guidelines for Telemedicine Practice - Public Consultation",
+      "published": "2026-06-25",
+      "text": "The draft revises consent, prescription and record-keeping norms for teleconsultations. Comments invited within 30 days.",
+      "link": null,
+      "content_hash": "cc3f5bdbefb3e3aa48934e83310d5d2a7c553a4d",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "81e045c5c9631f0a",
+      "source_id": "mohfw_notices",
+      "source_name": "Ministry of Health & Family Welfare - What's New",
+      "url": "https://mohfw.gov.in/?q=en/whats-new",
+      "category": "government_notification",
+      "region": "IN",
+      "authority": "MoHFW",
+      "title": "Revised Indian Public Health Standards for Sub-District Hospitals",
+      "published": "2026-06-05",
+      "text": "The revised IPHS specify minimum staffing, diagnostic services and infection control requirements for sub-district hospitals.",
+      "link": null,
+      "content_hash": "8980d2cd0d3d355f3529d4181766fa065273843e",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

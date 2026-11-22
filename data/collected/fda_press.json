@@ -1,0 +1,63 @@
+{
+  "page": {
+    "source_id": "fda_press",
+    "source_name": "FDA Press Announcements",
+    "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+    "category": "drug_device_regulation",
+    "region": "US",
+    "authority": "FDA",
+    "title": "FDA Press Announcements",
+    "markdown": "# FDA Press Announcements\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### FDA Issues Draft Guidance on AI-Enabled Medical Device Software\n\n*Published: 2026-07-02*\n\nThe draft guidance describes premarket submission content for AI-enabled device software functions, including a predetermined change control plan.\n\n[Read more](#)\n\n### FDA Announces Recall Classification for Infusion Pump Model\n\n*Published: 2026-06-20*\n\nA Class II recall was announced for one infusion pump model due to a software alarm defect. Facilities should apply the vendor patch.\n\n[Read more](#)\n\n### FDA Updates Drug Shortage List\n\n*Published: 2026-06-11*\n\nTwo sterile injectable products were added to the shortage list. Alternative suppliers are listed on the shortage database.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "c1485400b9983575",
+      "source_id": "fda_press",
+      "source_name": "FDA Press Announcements",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "category": "drug_device_regulation",
+      "region": "US",
+      "authority": "FDA",
+      "title": "FDA Issues Draft Guidance on AI-Enabled Medical Device Software",
+      "published": "2026-07-02",
+      "text": "The draft guidance describes premarket submission content for AI-enabled device software functions, including a predetermined change control plan.",
+      "link": null,
+      "content_hash": "bb73e61e4b880e8543ddde798857898a1da9b150",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "b599a0d01ad2ff51",
+      "source_id": "fda_press",
+      "source_name": "FDA Press Announcements",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "category": "drug_device_regulation",
+      "region": "US",
+      "authority": "FDA",
+      "title": "FDA Announces Recall Classification for Infusion Pump Model",
+      "published": "2026-06-20",
+      "text": "A Class II recall was announced for one infusion pump model due to a software alarm defect. Facilities should apply the vendor patch.",
+      "link": null,
+      "content_hash": "6d3f979a2940910577d871abaed3fec9aaf60f1e",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "5afca127e7b49407",
+      "source_id": "fda_press",
+      "source_name": "FDA Press Announcements",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "category": "drug_device_regulation",
+      "region": "US",
+      "authority": "FDA",
+      "title": "FDA Updates Drug Shortage List",
+      "published": "2026-06-11",
+      "text": "Two sterile injectable products were added to the shortage list. Alternative suppliers are listed on the shortage database.",
+      "link": null,
+      "content_hash": "471f94bda41345cd6af4e211f2961bf8dfeb0524",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}

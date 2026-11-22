@@ -1,0 +1,550 @@
+{
+  "metrics": {
+    "llm_provider": "groq",
+    "retrieval": {
+      "sources_collected": "8/8",
+      "records_extracted": 23,
+      "records_expected": 23,
+      "record_extraction_accuracy": 1.0,
+      "date_extraction_accuracy": 1.0
+    },
+    "change_detection": {
+      "new": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 5,
+        "predicted": 5,
+        "gold": 5
+      },
+      "changed": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 3,
+        "predicted": 3,
+        "gold": 3
+      },
+      "removed": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 1,
+        "predicted": 1,
+        "gold": 1
+      },
+      "cosmetic_edit_false_positives": 0,
+      "unchanged_reported": 15,
+      "unchanged_expected": 15
+    },
+    "memento_history": {
+      "baseline_records_stored": 19,
+      "items_tracked": 24,
+      "items_with_multiple_versions": 3,
+      "duplicate_alerts_on_rerun": 0,
+      "runs_logged": 3
+    },
+    "brief_quality": {
+      "briefs_generated": 9,
+      "schema_complete_rate": 0.889,
+      "avg_evidence_grounding": 0.889,
+      "briefs_with_unsupported_numbers": 6,
+      "relevance_agreement_with_rules": 0.667,
+      "relevance_distribution": {
+        "high": 4,
+        "medium": 5,
+        "low": 0
+      }
+    }
+  },
+  "briefs": [
+    {
+      "policy_name": "FDA Finalizes Rule on Laboratory Developed Tests Oversight Phase-In",
+      "issuing_authority": "FDA",
+      "source_name": "FDA Press Announcements",
+      "source_url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "region": "US",
+      "category": "drug_device_regulation",
+      "change_type": "new",
+      "published_or_effective_date": "2026-07-18",
+      "summary": "The FDA has issued a final rule requiring laboratories that provide laboratory‑developed tests (LDTs) to follow medical device reporting and complaint‑handling requirements during the first phase of implementation. This phase begins 12 months after the rule’s publication.",
+      "what_changed": [
+        "Laboratories offering LDTs must now comply with medical device reporting and complaint‑handling requirements in phase one."
+      ],
+      "key_points": [
+        "Applies to laboratories that offer laboratory‑developed tests (LDTs).",
+        "Phase one introduces medical device reporting obligations.",
+        "Phase one also requires formal complaint‑handling processes.",
+        "Implementation begins 12 months after the rule is published.",
+        "Compliance is required before any later phases are introduced."
+      ],
+      "affected_stakeholders": [
+        "Laboratories"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Regulatory Compliance",
+          "Pharmacy & Supply Chain"
+        ],
+        "explanation": "Laboratories will need to establish or update reporting systems for medical device incidents and formal complaint‑handling procedures, affecting compliance workflows, IT data capture, and supply‑chain documentation. Failure to meet these requirements could result in regulatory penalties and impact product availability."
+      },
+      "recommended_actions": [
+        "Review current LDT processes for gaps in medical device reporting and complaint handling.",
+        "Update standard operating procedures to incorporate FDA reporting and complaint requirements.",
+        "Train laboratory staff on the new compliance obligations before the 12‑month deadline.",
+        "Implement monitoring and documentation tools to track reports and complaints."
+      ],
+      "deadlines": [
+        "beginning in 12 months"
+      ],
+      "source_evidence": [
+        "Laboratories offering LDTs must comply with medical device reporting and complaint-handling requirements in phase one, beginning in 12 months."
+      ],
+      "confidence": 1.0,
+      "caveats": "Only phase one requirements are detailed; later phases and additional obligations are not described.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011",
+          "2019"
+        ],
+        "validated_at": "2026-11-22T12:35:45+00:00"
+      },
+      "item_id": "d7fce73c749fe4ba"
+    },
+    {
+      "policy_name": "HHS Finalizes Information Blocking Disincentives for Providers",
+      "issuing_authority": "HHS",
+      "source_name": "HHS Press Room",
+      "source_url": "https://www.hhs.gov/press-room/index.html",
+      "region": "US",
+      "category": "government_notification",
+      "change_type": "new",
+      "published_or_effective_date": "2026-07-15",
+      "summary": "HHS announced that providers who engage in information blocking will face penalties under Medicare programs, including reduced MIPS scores. The move is intended to encourage data sharing and compliance with interoperability rules.",
+      "what_changed": [
+        "Introduces disincentives for providers who commit information blocking, specifically reduced MIPS scores under Medicare."
+      ],
+      "key_points": [
+        "Providers found to have committed information blocking face disincentives.",
+        "Disincentives are applied through Medicare programs.",
+        "Reduced MIPS scores are a specific penalty.",
+        "Goal is to promote data sharing and reduce information blocking."
+      ],
+      "affected_stakeholders": [
+        "Hospitals"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "IT, Data & Privacy"
+        ],
+        "explanation": "Healthcare organizations must ensure their data exchange practices comply with interoperability rules to avoid reduced MIPS scores, which can affect reimbursement and performance reporting."
+      },
+      "recommended_actions": [
+        "Review current data sharing and interoperability policies.",
+        "Implement safeguards to prevent information blocking.",
+        "Monitor MIPS scoring and Medicare program updates.",
+        "Provide staff training on compliance with data sharing requirements."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Providers found to have committed information blocking face disincentives under Medicare programs, including reduced MIPS scores."
+      ],
+      "confidence": 0.95,
+      "caveats": "Limited detail provided; only the existence of disincentives and reduced MIPS scores is stated.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:35:47+00:00"
+      },
+      "item_id": "1ffc2a547990f2d2"
+    },
+    {
+      "policy_name": "Notification on Mandatory Reporting of Notifiable Diseases by Private Hospitals",
+      "issuing_authority": "MoHFW",
+      "source_name": "Ministry of Health & Family Welfare - What's New",
+      "source_url": "https://mohfw.gov.in/?q=en/whats-new",
+      "region": "IN",
+      "category": "government_notification",
+      "change_type": "new",
+      "published_or_effective_date": "2026-07-12",
+      "summary": "Private hospitals and laboratories are now required to report any listed notifiable disease to the IHIP portal within 24 hours of diagnosis. The rule aims to improve disease surveillance and rapid public health response.",
+      "what_changed": [
+        "Introduces mandatory reporting of listed notifiable diseases by private hospitals and laboratories on the IHIP portal within 24 hours of diagnosis."
+      ],
+      "key_points": [
+        "Applies to private hospitals and laboratories.",
+        "Reporting must be done on the IHIP portal.",
+        "Report must be submitted within 24 hours of diagnosis.",
+        "Covers all diseases designated as notifiable.",
+        "Non‑compliance may affect regulatory standing."
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Laboratories"
+      ],
+      "operational_relevance": {
+        "level": "high",
+        "areas": [
+          "Regulatory Compliance",
+          "Clinical Operations",
+          "IT, Data & Privacy"
+        ],
+        "explanation": "Organizations must adapt clinical workflows to capture diagnosis data instantly, integrate IT systems with the IHIP portal for timely electronic submission, and ensure staff are trained to meet the 24‑hour deadline, impacting compliance monitoring and data governance."
+      },
+      "recommended_actions": [
+        "Update SOPs to include 24‑hour reporting of notifiable diseases.",
+        "Configure or acquire IT capability to submit data to the IHIP portal.",
+        "Train clinicians, lab personnel, and data entry staff on the new reporting requirement.",
+        "Implement a compliance audit process to track timely submissions."
+      ],
+      "deadlines": [
+        "within 24 hours"
+      ],
+      "source_evidence": [
+        "Private hospitals and laboratories must report listed notifiable diseases on the IHIP portal within 24 hours of diagnosis."
+      ],
+      "confidence": 0.98,
+      "caveats": "Details such as the specific list of notifiable diseases, penalties for non‑compliance, and any effective date beyond publication are not stated in source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:35:51+00:00"
+      },
+      "item_id": "7a3c9d9518dca5bd"
+    },
+    {
+      "policy_name": "Draft Notification on Revised Schedule M Compliance Timeline",
+      "issuing_authority": "CDSCO",
+      "source_name": "CDSCO - Notices & Circulars",
+      "source_url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
+      "region": "IN",
+      "category": "drug_device_regulation",
+      "change_type": "new",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "The CDSCO has announced that small and medium drug manufacturers will receive an additional six‑month period to meet the updated Good Manufacturing Practice requirements under the revised Schedule M.",
+      "what_changed": [
+        "bullet: Introduces a six‑month extension for small and medium drug manufacturers to comply with the revised Good Manufacturing Practices."
+      ],
+      "key_points": [
+        "Small and medium drug manufacturers are granted extra time.",
+        "The extension period is six months.",
+        "Applies to compliance with revised Good Manufacturing Practices."
+      ],
+      "affected_stakeholders": [
+        "Manufacturers",
+        "Importers"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Regulatory Compliance",
+          "Pharmacy & Supply Chain"
+        ],
+        "explanation": "Organizations will need to adjust their GMP compliance project plans, extending validation and documentation activities by six months. This may affect supply chain scheduling and inventory management as manufacturers align production with the new timeline."
+      },
+      "recommended_actions": [
+        "Review current GMP compliance status against the revised Schedule M.",
+        "Update internal timelines and resource plans to incorporate the six‑month extension.",
+        "Communicate the extended deadline to relevant teams and external partners.",
+        "Monitor for any further guidance that may specify exact effective dates."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Small and medium drug manufacturers get an extended deadline of six months to comply with revised Good Manufacturing Practices."
+      ],
+      "confidence": 0.98,
+      "caveats": "Draft notification; no specific effective dates provided in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:35:53+00:00"
+      },
+      "item_id": "683d674315c23f27"
+    },
+    {
+      "policy_name": "WHO Issues Interim Recommendations on Avian Influenza Preparedness",
+      "issuing_authority": "WHO",
+      "source_name": "WHO News Releases",
+      "source_url": "https://www.who.int/news-room/releases",
+      "region": "GLOBAL",
+      "category": "public_health_guidance",
+      "change_type": "new",
+      "published_or_effective_date": "2026-07-20",
+      "summary": "The World Health Organization advises health facilities to enhance surveillance, expand isolation capacity, and increase personal protective equipment (PPE) stockpiles for any suspected human cases of avian influenza. These interim recommendations aim to improve readiness and protect patients and staff.",
+      "what_changed": [
+        "bullet: introduces a requirement for health facilities to strengthen surveillance, isolation capacity, and PPE stockpiles for suspected human cases"
+      ],
+      "key_points": [
+        "Strengthen surveillance for suspected avian influenza cases",
+        "Expand isolation capacity in health facilities",
+        "Increase PPE stockpiles to protect staff and patients",
+        "Apply recommendations to all suspected human cases",
+        "Guidance issued by WHO as interim preparedness measure"
+      ],
+      "affected_stakeholders": [
+        "Hospitals"
+      ],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Clinical Operations",
+          "Pharmacy & Supply Chain"
+        ],
+        "explanation": "Hospitals will need to review and possibly revise clinical protocols for case detection and isolation, and ensure sufficient PPE inventory, affecting staffing, patient flow, and supply chain management."
+      },
+      "recommended_actions": [
+        "Review current surveillance and case detection procedures for avian influenza.",
+        "Assess existing isolation facilities and identify gaps.",
+        "Conduct an inventory of PPE and project future needs.",
+        "Develop a procurement and stockpile plan to meet the recommended levels."
+      ],
+      "deadlines": [],
+      "source_evidence": [
+        "Health facilities should strengthen surveillance, isolation capacity and PPE stockpiles for suspected human cases."
+      ],
+      "confidence": 0.95,
+      "caveats": "Limited detail in source; no specific metrics, timelines, or enforcement mechanisms are provided.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:35:55+00:00"
+      },
+      "item_id": "6d7a4977310b5921"
+    },
+    {
+      "policy_name": "Proposed Physician Fee Schedule Update for Next Calendar Year",
+      "issuing_authority": "CMS",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/about-cms/contact/newsroom",
+      "region": "US",
+      "category": "reimbursement",
+      "change_type": "changed",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "CMS finalized an increase to the physician fee schedule conversion factor to 2.8%, up from the 2.1% proposed. Telehealth billing codes for behavioral health are now permanent and audio‑only visits are reimbursable. The rule takes effect on 1 January.",
+      "what_changed": [
+        "Conversion factor increased to 2.8% (up from 2.1% proposed).",
+        "Telehealth billing codes for behavioral health are made permanent.",
+        "Audio‑only telehealth visits are now covered."
+      ],
+      "key_points": [
+        "Physician fee schedule conversion factor set at 2.8%.",
+        "Behavioral health telehealth codes become permanent.",
+        "Audio‑only visits are reimbursable.",
+        "Applies to all physicians and clinicians providing telehealth.",
+        "Effective 1 January."
+      ],
+      "affected_stakeholders": [
+        "Physicians & Clinicians",
+        "Hospitals",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "high",
+        "areas": [
+          "Billing & Reimbursement",
+          "Regulatory Compliance",
+          "IT, Data & Privacy"
+        ],
+        "explanation": "Billing systems must be updated to apply the new 2.8% conversion factor and to recognize permanent behavioral health telehealth codes and audio‑only visit codes. Compliance teams need to adjust policies and documentation, and IT must ensure claim edits and data reporting reflect the changes."
+      },
+      "recommended_actions": [
+        "Update fee‑schedule tables in billing and EHR systems to reflect the 2.8% conversion factor.",
+        "Configure claim processing rules to accept permanent behavioral health telehealth codes and audio‑only visit codes.",
+        "Train coding and billing staff on the new telehealth coverage criteria.",
+        "Review payer contracts and compliance manuals for alignment with the final rule."
+      ],
+      "deadlines": [
+        "Effective 1 January"
+      ],
+      "source_evidence": [
+        "FINAL RULE: The physician fee schedule conversion factor is updated by 2.8% (up from 2.1% proposed).",
+        "Telehealth billing codes for behavioral health are made permanent and audio-only visits are covered.",
+        "Effective 1 January."
+      ],
+      "confidence": 0.98,
+      "caveats": "The source does not specify the calendar year for the effective date, and details on implementation procedures are not provided.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:35:59+00:00"
+      },
+      "item_id": "9d83182918892563"
+    },
+    {
+      "policy_name": "Revision of Health Benefit Package Rates under AB PM-JAY",
+      "issuing_authority": "NHA",
+      "source_name": "National Health Authority - PM-JAY / ABDM Updates",
+      "source_url": "https://nha.gov.in/",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "changed",
+      "published_or_effective_date": "2026-06-22",
+      "summary": "The benefit package rates for 120 oncology and cardiology procedures have been revised and 35 new dialysis packages have been added under AB PM-JAY. Empanelled hospitals must update pre‑authorisation requests from 1 August, and any claim submitted at the old rates after 30 days will be rejected.",
+      "what_changed": [
+        "Added 35 dialysis packages to the benefit package rates.",
+        "Pre‑authorisation requests must be updated from 1 August instead of the previously vague \"effective date\".",
+        "Claims submitted at old rates will be rejected after 30 days."
+      ],
+      "key_points": [
+        "Oncology and cardiology procedure rates are revised for 120 services.",
+        "35 dialysis packages are newly included in the rate schedule.",
+        "Hospitals must align pre‑authorisation requests with the new rates starting 1 August.",
+        "Old‑rate claims will be denied if submitted beyond a 30‑day window.",
+        "Non‑compliance may affect reimbursement eligibility."
+      ],
+      "affected_stakeholders": [
+        "Hospitals",
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "high",
+        "areas": [
+          "Billing & Reimbursement",
+          "Regulatory Compliance"
+        ],
+        "explanation": "The new rates and added dialysis packages directly alter billing codes and reimbursement amounts, requiring immediate updates to billing systems and claim submission processes. Failure to revise pre‑authorisation workflows by the 1 August deadline will result in claim rejections, impacting cash flow and compliance reporting."
+      },
+      "recommended_actions": [
+        "Update the rate schedule in billing and claims management systems to include the 35 dialysis packages.",
+        "Revise pre‑authorisation templates and train staff to use the new rates effective 1 August.",
+        "Implement a monitoring process to flag any claims submitted at old rates after the 30‑day grace period.",
+        "Communicate the changes to payer liaison teams and ensure contracts reflect the updated rates."
+      ],
+      "deadlines": [
+        "from 1 August",
+        "after 30 days"
+      ],
+      "source_evidence": [
+        "Package rates for 120 procedures in oncology and cardiology are revised; rates for 35 dialysis packages are added.",
+        "Empanelled hospitals must update pre-authorisation requests from 1 August, and claims at old rates will be rejected after 30 days."
+      ],
+      "confidence": 0.98,
+      "caveats": "Not stated in source: exact year for the 1 August deadline; assumes same year as publication. Details on the specific dialysis procedures and rate amounts are not provided.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011",
+          "202"
+        ],
+        "validated_at": "2026-11-22T12:36:15+00:00"
+      },
+      "item_id": "68e4bf1d0b19660a"
+    },
+    {
+      "policy_name": "Master Circular on Health Insurance Products",
+      "issuing_authority": "IRDAI",
+      "source_name": "IRDAI - Health Insurance Circulars",
+      "source_url": "https://irdai.gov.in/circulars",
+      "region": "IN",
+      "category": "reimbursement",
+      "change_type": "changed",
+      "published_or_effective_date": "2026-06-12",
+      "summary": "The circular retains the one‑hour cashless authorisation and three‑hour discharge authorisation limits, and adds that any delay beyond three hours must be funded from the insurer's shareholder capital. A penalty framework for such delays will start in the next quarter.",
+      "what_changed": [
+        "Any delay beyond three hours must be borne by the insurer from shareholder funds.",
+        "A penalty framework applies from the next quarter."
+      ],
+      "key_points": [
+        "Insurers must settle cashless authorisation requests within one hour.",
+        "Final discharge authorisation must be completed within three hours.",
+        "Delays beyond three hours are financially the insurer's responsibility, using shareholder funds.",
+        "A penalty framework will be enforced starting the next quarter.",
+        "Compliance impacts regulatory, billing, and financial reporting functions."
+      ],
+      "affected_stakeholders": [
+        "Insurers / Payers"
+      ],
+      "operational_relevance": {
+        "level": "high",
+        "areas": [
+          "Regulatory Compliance",
+          "Billing & Reimbursement",
+          "Finance & Grants"
+        ],
+        "explanation": "Insurers must adjust internal processes to ensure the three‑hour discharge window is met, allocate shareholder capital to cover any overruns, and prepare for penalty calculations starting next quarter. This affects billing cycles, compliance reporting, and financial planning."
+      },
+      "recommended_actions": [
+        "Audit current cashless and discharge authorisation workflows for compliance with the one‑hour/three‑hour limits.",
+        "Implement real‑time monitoring to flag potential delays beyond three hours.",
+        "Allocate contingency funds from shareholder capital to cover possible delay liabilities.",
+        "Develop a reporting mechanism for the upcoming penalty framework."
+      ],
+      "deadlines": [
+        "Penalty framework applies from the next quarter."
+      ],
+      "source_evidence": [
+        "Insurers must settle cashless authorisation requests within one hour and final discharge authorisation within three hours.",
+        "Any delay beyond three hours must be borne by the insurer from shareholder funds; a penalty framework applies from the next quarter."
+      ],
+      "confidence": 1.0,
+      "caveats": "Exact dates for the next quarter and penalty amounts are not specified in the source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 1.0,
+        "unsupported_numbers": [
+          "2011"
+        ],
+        "validated_at": "2026-11-22T12:36:32+00:00"
+      },
+      "item_id": "e6877f4770f2f776"
+    },
+    {
+      "policy_name": "FDA Updates Drug Shortage List",
+      "issuing_authority": "FDA",
+      "source_name": "FDA Press Announcements",
+      "source_url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "region": "US",
+      "category": "drug_device_regulation",
+      "change_type": "removed",
+      "published_or_effective_date": "Not stated in source",
+      "summary": "Not stated in source",
+      "what_changed": [
+        "Not stated in source"
+      ],
+      "key_points": [
+        "Not stated in source"
+      ],
+      "affected_stakeholders": [],
+      "operational_relevance": {
+        "level": "medium",
+        "areas": [
+          "Pharmacy & Supply Chain",
+          "IT, Data & Privacy"
+        ],
+        "explanation": "Not stated in source"
+      },
+      "recommended_actions": [
+        "Monitor the FDA shortage database for updates.",
+        "Verify current inventory levels of sterile injectable products.",
+        "Engage alternative suppliers if shortages reappear."
+      ],
+      "deadlines": [],
+      "source_evidence": [],
+      "confidence": 0.5,
+      "caveats": "The item has been removed from the source page; no details are available in the current source.",
+      "_quality": {
+        "schema_issues": [],
+        "evidence_grounding": 0.0,
+        "unsupported_numbers": [],
+        "validated_at": "2026-11-22T12:36:42+00:00"
+      },
+      "item_id": "5afca127e7b49407"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "page": {
+    "source_id": "cms_newsroom",
+    "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+    "url": "https://www.cms.gov/about-cms/contact/newsroom",
+    "category": "reimbursement",
+    "region": "US",
+    "authority": "CMS",
+    "title": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+    "markdown": "# CMS Newsroom\n\n> SYNTHETIC DEMO SNAPSHOT - fictional content for offline testing only.\n\n\n## Latest Updates\n\n### Proposed Physician Fee Schedule Update for Next Calendar Year\n\n*Published: 2026-07-10*\n\nThe proposed rule updates the conversion factor by 2.1% and expands telehealth billing codes for behavioral health. Comments are accepted for 60 days.\n\n[Read more](#)\n\n### Hospital Price Transparency Enforcement Reminder\n\n*Published: 2026-06-28*\n\nHospitals must post machine-readable files of standard charges. Civil monetary penalties apply for non-compliance after a 90-day corrective action period.\n\n[Read more](#)\n\n### Medicare Advantage Star Ratings Methodology Notice\n\n*Published: 2026-06-15*\n\nCMS clarifies the cut-point methodology used for Star Ratings. No change to measure weights this cycle.\n\n[Read more](#)\n\n\n---\nSite footer | Accessibility | Contact | Privacy policy\n",
+    "fetched_at": "2026-11-22T11:26:38+00:00",
+    "mode": "offline",
+    "status": "ok",
+    "error": null
+  },
+  "records": [
+    {
+      "item_id": "9d83182918892563",
+      "source_id": "cms_newsroom",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "url": "https://www.cms.gov/about-cms/contact/newsroom",
+      "category": "reimbursement",
+      "region": "US",
+      "authority": "CMS",
+      "title": "Proposed Physician Fee Schedule Update for Next Calendar Year",
+      "published": "2026-07-10",
+      "text": "The proposed rule updates the conversion factor by 2.1% and expands telehealth billing codes for behavioral health. Comments are accepted for 60 days.",
+      "link": null,
+      "content_hash": "a310daac852cf1ddcb77ac4770ab8c1538456c57",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "84b6a8f15c236650",
+      "source_id": "cms_newsroom",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "url": "https://www.cms.gov/about-cms/contact/newsroom",
+      "category": "reimbursement",
+      "region": "US",
+      "authority": "CMS",
+      "title": "Hospital Price Transparency Enforcement Reminder",
+      "published": "2026-06-28",
+      "text": "Hospitals must post machine-readable files of standard charges. Civil monetary penalties apply for non-compliance after a 90-day corrective action period.",
+      "link": null,
+      "content_hash": "469c28a7045a35510a107e345bb7dd2c42907395",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    },
+    {
+      "item_id": "97225959a194c2c0",
+      "source_id": "cms_newsroom",
+      "source_name": "CMS Newsroom (Centers for Medicare & Medicaid Services)",
+      "url": "https://www.cms.gov/about-cms/contact/newsroom",
+      "category": "reimbursement",
+      "region": "US",
+      "authority": "CMS",
+      "title": "Medicare Advantage Star Ratings Methodology Notice",
+      "published": "2026-06-15",
+      "text": "CMS clarifies the cut-point methodology used for Star Ratings. No change to measure weights this cycle.",
+      "link": null,
+      "content_hash": "3a75700736e1ee64939b0827b17f2fd2b4afb2d6",
+      "fetched_at": "2026-11-22T11:26:38+00:00"
+    }
+  ]
+}
